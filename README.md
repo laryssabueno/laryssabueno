@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mim
-Atuei por 6 anos na área de Engenharia Civil, estou em transição de carreira. Hoje sou estudante cursando Técnologo em Banco de Dados, apaixonada por dados e meu objetivo é me tornar uma Engenheira de Dados.
+Atuei por 6 anos na área de Engenharia Civil, estou em transição de carreira. Hoje sou estudante cursando Técnologo em Banco de Dados, apaixonada por dados e meu objetivo é me tornar uma Analista de Dados, Engenheira de Dados ou Cientista de Dados.
 
 ## 🔗 Conecte-se comigo! 😁
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laryssa-bueno-eng/)
